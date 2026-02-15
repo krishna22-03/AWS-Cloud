@@ -1,6 +1,0 @@
-cidr_block_vpc = "10.0.0.0/16"
-vpc_name = "TF VPC"
-igw_name = "TF_IGW"
-subnet_name = "TF-subnet"
-cidr_block_subnet = "10.0.1.0/24"
-TF_route_table_name = "TF_route_table"
