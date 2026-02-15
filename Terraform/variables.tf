@@ -21,3 +21,7 @@ variable "igw_name"{
 variable "TF_route_table_name"{
     type = string
 }
+
+variable "TF_sg_name"{
+    type = string 
+}
